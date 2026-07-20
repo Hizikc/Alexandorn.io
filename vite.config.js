@@ -3,7 +3,7 @@ import { resolve } from 'path';
 
 export default defineConfig({
   // Базовый путь для GitHub Pages (название твоего репозитория)
-  base: '/alexandoin.io/',
+  base: '/',
 
   build: {
     // Собираем в папку docs, чтобы GitHub её увидел
