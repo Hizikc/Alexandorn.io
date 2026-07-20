@@ -1,0 +1,13 @@
+{
+  "name": "css-guide",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^8.1.5",
+    "vite-plugin-html-inject": "^1.1.2"
+  }
+}
